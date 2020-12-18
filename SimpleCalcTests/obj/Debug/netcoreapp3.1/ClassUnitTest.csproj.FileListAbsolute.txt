@@ -1,0 +1,48 @@
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.exe
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.deps.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.dev.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csprojAssemblyReference.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfoInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfo.cs
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CopyComplete
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.genruntimeconfig.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.exe
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.deps.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.dev.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csprojAssemblyReference.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfoInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfo.cs
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CopyComplete
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.genruntimeconfig.cache
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.exe
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.deps.json
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.json
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.runtimeconfig.dev.json
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.dll
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\ClassUnitTest.pdb
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.dll
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\bin\Debug\netcoreapp3.1\SimpleCalc.pdb
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csprojAssemblyReference.cache
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfoInputs.cache
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.AssemblyInfo.cs
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CoreCompileInputs.cache
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.csproj.CopyComplete
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.dll
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.pdb
+C:\Web development\new2\phase3\phase3\Calculator\SimpleCalcTests\obj\Debug\netcoreapp3.1\ClassUnitTest.genruntimeconfig.cache

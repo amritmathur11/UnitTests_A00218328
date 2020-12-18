@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbKw/f/DHJd/MueYlj92hsvAPet8ig+f7czKsZbOE3/HrGYe8dHpqZ+mr7R0xsZE3dPaLL5opwB88FECAehBxw==",
+  "success": true,
+  "projectFilePath": "C:\\Web development\\new2\\phase3\\phase3\\Calculator\\SimpleCalc\\SimpleCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amrit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\amrit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
